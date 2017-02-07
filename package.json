@@ -1,0 +1,12 @@
+{
+  "name": "vn-validator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "ByeongSu Do <bsdo@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^5.0.3-beta",
+    "strman": "^1.3.1"
+  }
+}
