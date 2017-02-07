@@ -4,7 +4,6 @@
 const Ajv = require('ajv');
 const { collapseWhitespace } = require('strman');
 
-// option `i18n` is required for this package to work
 const ajv = new Ajv({
   useDefaults: true
 }); // options can be passed, e.g. {allErrors: true}
