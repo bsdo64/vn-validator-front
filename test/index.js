@@ -1,10 +1,7 @@
 const { describe, it, before } = require('mocha');
 const expect = require('chai').expect;
 
-describe('Array', function() {
-  before(function() {
-    // ...
-  });
+describe('vn-validator-front', function() {
 
   describe('#indexOf()', function() {
     context('when not present', function() {
